@@ -106,6 +106,7 @@ namespace ConsoleTask8
                         Console.WriteLine("Invalid response. Please enter a number between 1 and 6.");
                         Console.ResetColor();
                     }
+                    Console.ResetColor();
                 }
             }
         }

@@ -40,3 +40,17 @@ C:\Users\surakat.s\Desktop\task_todo_application-surakat15 Mod\SURAKAT SAMUEL A\
 C:\Users\surakat.s\Desktop\task_todo_application-surakat15 Mod\SURAKAT SAMUEL A\ConsoleTask8\ConsoleTask8\obj\Debug\netcoreapp3.1\ConsoleTask8.dll
 C:\Users\surakat.s\Desktop\task_todo_application-surakat15 Mod\SURAKAT SAMUEL A\ConsoleTask8\ConsoleTask8\obj\Debug\netcoreapp3.1\ConsoleTask8.pdb
 C:\Users\surakat.s\Desktop\task_todo_application-surakat15 Mod\SURAKAT SAMUEL A\ConsoleTask8\ConsoleTask8\obj\Debug\netcoreapp3.1\ConsoleTask8.genruntimeconfig.cache
+C:\Users\surakat.s\Desktop\TODO TASK FILE\task_todo_application-surakat samuel\task_todo_application-surakat15 Mod\SURAKAT SAMUEL A\ConsoleTask8\ConsoleTask8\obj\Debug\netcoreapp3.1\ConsoleTask8.csproj.AssemblyReference.cache
+C:\Users\surakat.s\Desktop\TODO TASK FILE\task_todo_application-surakat samuel\task_todo_application-surakat15 Mod\SURAKAT SAMUEL A\ConsoleTask8\ConsoleTask8\obj\Debug\netcoreapp3.1\ConsoleTask8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\surakat.s\Desktop\TODO TASK FILE\task_todo_application-surakat samuel\task_todo_application-surakat15 Mod\SURAKAT SAMUEL A\ConsoleTask8\ConsoleTask8\obj\Debug\netcoreapp3.1\ConsoleTask8.AssemblyInfoInputs.cache
+C:\Users\surakat.s\Desktop\TODO TASK FILE\task_todo_application-surakat samuel\task_todo_application-surakat15 Mod\SURAKAT SAMUEL A\ConsoleTask8\ConsoleTask8\obj\Debug\netcoreapp3.1\ConsoleTask8.AssemblyInfo.cs
+C:\Users\surakat.s\Desktop\TODO TASK FILE\task_todo_application-surakat samuel\task_todo_application-surakat15 Mod\SURAKAT SAMUEL A\ConsoleTask8\ConsoleTask8\obj\Debug\netcoreapp3.1\ConsoleTask8.csproj.CoreCompileInputs.cache
+C:\Users\surakat.s\Desktop\TODO TASK FILE\task_todo_application-surakat samuel\task_todo_application-surakat15 Mod\SURAKAT SAMUEL A\ConsoleTask8\ConsoleTask8\obj\Debug\netcoreapp3.1\ConsoleTask8.dll
+C:\Users\surakat.s\Desktop\TODO TASK FILE\task_todo_application-surakat samuel\task_todo_application-surakat15 Mod\SURAKAT SAMUEL A\ConsoleTask8\ConsoleTask8\obj\Debug\netcoreapp3.1\ConsoleTask8.pdb
+C:\Users\surakat.s\Desktop\TODO TASK FILE\task_todo_application-surakat samuel\task_todo_application-surakat15 Mod\SURAKAT SAMUEL A\ConsoleTask8\ConsoleTask8\bin\Debug\netcoreapp3.1\ConsoleTask8.exe
+C:\Users\surakat.s\Desktop\TODO TASK FILE\task_todo_application-surakat samuel\task_todo_application-surakat15 Mod\SURAKAT SAMUEL A\ConsoleTask8\ConsoleTask8\bin\Debug\netcoreapp3.1\ConsoleTask8.deps.json
+C:\Users\surakat.s\Desktop\TODO TASK FILE\task_todo_application-surakat samuel\task_todo_application-surakat15 Mod\SURAKAT SAMUEL A\ConsoleTask8\ConsoleTask8\bin\Debug\netcoreapp3.1\ConsoleTask8.runtimeconfig.json
+C:\Users\surakat.s\Desktop\TODO TASK FILE\task_todo_application-surakat samuel\task_todo_application-surakat15 Mod\SURAKAT SAMUEL A\ConsoleTask8\ConsoleTask8\bin\Debug\netcoreapp3.1\ConsoleTask8.runtimeconfig.dev.json
+C:\Users\surakat.s\Desktop\TODO TASK FILE\task_todo_application-surakat samuel\task_todo_application-surakat15 Mod\SURAKAT SAMUEL A\ConsoleTask8\ConsoleTask8\bin\Debug\netcoreapp3.1\ConsoleTask8.dll
+C:\Users\surakat.s\Desktop\TODO TASK FILE\task_todo_application-surakat samuel\task_todo_application-surakat15 Mod\SURAKAT SAMUEL A\ConsoleTask8\ConsoleTask8\bin\Debug\netcoreapp3.1\ConsoleTask8.pdb
+C:\Users\surakat.s\Desktop\TODO TASK FILE\task_todo_application-surakat samuel\task_todo_application-surakat15 Mod\SURAKAT SAMUEL A\ConsoleTask8\ConsoleTask8\obj\Debug\netcoreapp3.1\ConsoleTask8.genruntimeconfig.cache

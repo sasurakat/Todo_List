@@ -50,6 +50,94 @@ namespace ConsoleTask8
             users.Add(user);
 
             Console.WriteLine("Registration successful!");
+
+
+
+            if (user == null)
+            {
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine("User not Found");
+                Console.ResetColor();
+                return;
+            }
+
+            if (user.Password != password2)
+            {
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine("Invalid email or Password");
+                Console.ResetColor();
+                return;
+            }
+
+            Console.Clear();
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine($"Login successful. Welcome, {user.Name.ToUpper()}!");
+            Console.ResetColor();
+
+
+            List<Task> tasks = new List<Task>();
+            Program.currentUser = user;
+
+            if (Program.currentUser != null)
+            {
+
+                while (true)
+                {
+                    Console.WriteLine(LoginUI.userProfileMessage);
+                    Console.Write("Enter your choice: ");
+                    string choice = Console.ReadLine();
+
+                    if (int.TryParse(choice, out int userProfile) && userProfile >= 1 && userProfile <= 6)
+                    {
+                        switch (userProfile)
+                        {
+                            case 1:
+                                TasksValidation.AddTask(tasks);
+                                break;
+                            case 2:
+                                TasksValidation.viewTask(tasks);
+                                break;
+                            case 3:
+                                TasksValidation.EditTask(tasks);
+                                break;
+                            case 4:
+                                TasksValidation.DeleteTask(tasks);
+                                break;
+                            case 5:
+                                TasksValidation.CompleteTask(tasks);
+                                break;
+                            case 6:
+                                Console.WriteLine("Logout...");
+                                Program.currentUser = null;
+                                return;
+                            default:
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine("Invalid choice. Try again.");
+                                Console.ResetColor();
+                                break;
+                        }
+                    }
+                    else
+                    {
+                        Console.ForegroundColor = ConsoleColor.Red;
+                        Console.WriteLine("Invalid response. Please enter a number between 1 and 6.");
+                        Console.ResetColor();
+                    }
+                    Console.ResetColor ();
+                }
+                
+            }
+
+
+
+
+
+
+
+
+
+
+
         }
 
     }

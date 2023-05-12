@@ -10,7 +10,7 @@ namespace ConsoleTask8
 {
     public static class TasksValidation
     {
-        public static int itemId { get; private set; }
+        public static int ItemId { get; private set; }
 
         public static void AddTask(List<Task> tasks)
             
@@ -63,7 +63,7 @@ namespace ConsoleTask8
                         Console.ResetColor();
                         return;
                     }
-                    Task task = new Task(itemId = tasks.Count +1, titles, description, dueDateString, periorityLevel, CurrentUser.Id);
+                    Task task = new Task(ItemId = tasks.Count +1, titles, description, dueDateString, periorityLevel, CurrentUser.Id);
                     tasks.Add(task);
                      Console.Clear();
                      Console.ForegroundColor = ConsoleColor.Green;

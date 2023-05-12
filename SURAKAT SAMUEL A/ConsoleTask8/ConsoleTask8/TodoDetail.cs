@@ -63,7 +63,7 @@ namespace ConsoleTask8
     public class CurrentUser
     {
         public static int Id { get; set; }
-        public Guid PersonId { get; }= Guid.NewGuid();
+        //public Guid PersonId { get; }= Guid.NewGuid();
     }
 
     
