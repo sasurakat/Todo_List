@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\surakat.s\\Desktop\\task_todo_application-surakat15 Mod\\SURAKAT SAMUEL A\\ConsoleTask8\\ConsoleTask8\\ConsoleTask8.csproj",
+      "projectUniqueName": "C:\\Users\\surakat.s\\Desktop\\TODO TASK FILE\\task_todo_application-surakat samuel\\task_todo_application-surakat15 Mod\\SURAKAT SAMUEL A\\ConsoleTask8\\ConsoleTask8\\ConsoleTask8.csproj",
       "projectName": "ConsoleTask8",
-      "projectPath": "C:\\Users\\surakat.s\\Desktop\\task_todo_application-surakat15 Mod\\SURAKAT SAMUEL A\\ConsoleTask8\\ConsoleTask8\\ConsoleTask8.csproj",
+      "projectPath": "C:\\Users\\surakat.s\\Desktop\\TODO TASK FILE\\task_todo_application-surakat samuel\\task_todo_application-surakat15 Mod\\SURAKAT SAMUEL A\\ConsoleTask8\\ConsoleTask8\\ConsoleTask8.csproj",
       "packagesPath": "C:\\Users\\surakat.s\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\surakat.s\\Desktop\\task_todo_application-surakat15 Mod\\SURAKAT SAMUEL A\\ConsoleTask8\\ConsoleTask8\\obj\\",
+      "outputPath": "C:\\Users\\surakat.s\\Desktop\\TODO TASK FILE\\task_todo_application-surakat samuel\\task_todo_application-surakat15 Mod\\SURAKAT SAMUEL A\\ConsoleTask8\\ConsoleTask8\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
